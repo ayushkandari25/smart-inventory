@@ -122,18 +122,9 @@ SmartInventory_App/
 <h2>✨ Contributors</h2>
 
 <ul>
-  <li><b>Ayush Kandari</b> – <a href="https://www.linkedin.com/in/ayushkandari25/" target="_blank">LinkedIn</a></li>
+  <li><b>Ayush Kandari</b> – <a href="https://www.linkedin.com/in/ayushkandari/" target="_blank">LinkedIn</a></li>
 </ul>
 
-<p>PRs and contributions are welcome!</p>
-
-<hr>
-
-<h2>📜 License</h2>
-
-<p>This project is licensed under the <b>MIT License</b>.</p>
-
-<hr>
 
 <h2>💡 Future Improvements</h2>
 
