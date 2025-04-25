@@ -76,7 +76,6 @@
 <ul>
   <li><b>Frontend:</b> React, Tailwind CSS, JavaScript</li>
   <li><b>Backend:</b> Firebase (Realtime DB + Auth)</li>
-  <li><b>Others:</b> Axios, QR/Barcode libraries, AI/ML integration (upcoming)</li>
 </ul>
 
 <hr>
@@ -109,7 +108,7 @@ SmartInventory_App/
 
 <ol>
   <li><b>Clone the repository</b><br>
-  <code>git clone https://github.com/yourusername/SmartInventory_App.git</code></li>
+  <code>git clone https://github.com/ayushkandari25/smart-inventory.git</code></li>
   <li><b>Install dependencies</b><br>
   <code>npm install</code></li>
   <li><b>Set up Firebase</b><br>
@@ -123,7 +122,7 @@ SmartInventory_App/
 <h2>✨ Contributors</h2>
 
 <ul>
-  <li><b>Ayush Kandari</b> – <a href="https://www.linkedin.com/in/ayushkandari/" target="_blank">LinkedIn</a></li>
+  <li><b>Ayush Kandari</b> – <a href="https://www.linkedin.com/in/ayushkandari25/" target="_blank">LinkedIn</a></li>
 </ul>
 
 <p>PRs and contributions are welcome!</p>
@@ -139,7 +138,6 @@ SmartInventory_App/
 <h2>💡 Future Improvements</h2>
 
 <ul>
-  <li>PWA support</li>
   <li>Supplier dashboard</li>
   <li>CSV/Excel export</li>
   <li>Analytics with D3/Chart.js</li>
