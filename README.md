@@ -24,41 +24,18 @@
   <li><b>Role-Based Access Control (RBAC)</b><br>
     Assign roles (Admin, Manager, Viewer) with custom permissions.
   </li>
-  <li><b>Inventory Reports</b><br>
-    Generate weekly/monthly reports for stock, sales, and wastage.
-  </li>
 </ul>
 
 <h3>🌟 Unique Features</h3>
 
 <ul>
-  <li><b>Barcode & QR Code Integration</b><br>
-    Scan items for entry and tracking. Generate and use QR codes for easy updates.
-  </li>
   <li><b>Real-Time Collaboration</b><br>
     Assign tasks like audits or reorders. Live updates across the system.
-  </li>
-  <li><b>Automated Supplier Orders</b><br>
-    Auto-generate and send reorder requests via email/SMS when stock is low.
   </li>
 </ul>
 
 <h3>🤖 Challenging Features</h3>
 
-<ul>
-  <li><b>AI-Based Demand Forecasting</b><br>
-    Predict future stock needs using trends and seasonality.
-  </li>
-  <li><b>Wastage Reduction Algorithm</b><br>
-    Detect soon-to-expire items and suggest discounts or promotions.
-  </li>
-  <li><b>Inventory Audit Automation</b><br>
-    Spot mismatches, and get ML-based discrepancy resolution suggestions.
-  </li>
-  <li><b>Offline Mode with Real-Time Sync</b><br>
-    Work offline; changes auto-sync once reconnected.
-  </li>
-</ul>
 
 <h3>🎨 Additional Features</h3>
 
@@ -66,7 +43,6 @@
   <li>Responsive Design (Mobile, Tablet, Desktop)</li>
   <li>Dark Mode for low-light environments</li>
   <li>Sleek UI with visual dashboards & graphs</li>
-  <li>Push Notifications for alerts and updates</li>
 </ul>
 
 <hr>
@@ -89,17 +65,19 @@
 <h2>📂 Project Structure</h2>
 
 <pre>
-SmartInventory_App/
-│
-├── public/
-├── src/
-│   ├── components/
-│   ├── context/
-│   ├── pages/
-│   ├── utils/
-│   └── App.js
-├── firebase-config.js
-└── package.json
+
+src/
+├─ components/
+│   ├─ Auth/
+│   ├─ Inventory/
+│   ├─ Layout/
+├─ contexts/
+├─ pages/
+├─ utils/
+├─ App.jsx
+├─ index.css
+├─ main.jsx
+
 </pre>
 
 <hr>
@@ -119,17 +97,12 @@ SmartInventory_App/
 
 <hr>
 
-<h2>✨ Contributors</h2>
-
-<ul>
-  <li><b>Ayush Kandari</b> – <a href="https://www.linkedin.com/in/ayushkandari/" target="_blank">LinkedIn</a></li>
-</ul>
-
 
 <h2>💡 Future Improvements</h2>
 
 <ul>
   <li>Supplier dashboard</li>
+  <li>Bar Code Scanning Feature</li>
   <li>CSV/Excel export</li>
   <li>Analytics with D3/Chart.js</li>
 </ul>
